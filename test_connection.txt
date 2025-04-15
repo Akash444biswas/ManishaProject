@@ -1,0 +1,2 @@
+# Test if the application is running using the test endpoint
+curl http://localhost:8081/api/test
