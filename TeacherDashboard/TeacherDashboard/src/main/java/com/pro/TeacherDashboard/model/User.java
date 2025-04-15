@@ -27,3 +27,4 @@ public class User {
     @Column(name = "class_name")
     private List<String> classes;
 }
+

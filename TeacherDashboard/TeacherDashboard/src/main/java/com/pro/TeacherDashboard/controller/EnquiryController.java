@@ -24,3 +24,4 @@ public class EnquiryController {
         return ResponseEntity.ok(enquiries);
     }
 }
+
